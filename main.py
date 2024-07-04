@@ -1,4 +1,3 @@
-print("Hello Everyone")
 print("Welcome to GIT")
 
 fact = 1
